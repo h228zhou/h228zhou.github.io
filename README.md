@@ -1,7 +1,12 @@
-# Portfolio
+# Portfolio Page
 
-This is my project portfolio page deployed on [[here]](h228zhou.github.io)
+## 🛠 Installation and Setup Instructions
 
-This page contains overviews of my public projects and links to the porject/code pages.
-Feel free to contact me using the contact information stored on the page!
+1. Installation: `npm install`
+
+2. In the project directory, you can run: `npm start`
+
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+The page will reload if you make edits.
 
